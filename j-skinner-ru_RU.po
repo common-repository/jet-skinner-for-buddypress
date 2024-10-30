@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet Skinner for BuddyPress\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/jet-skinner-for-buddypress\n"
+"POT-Creation-Date: 2010-06-19 06:06+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandr\n"
+"Language-Team: Jet <milordk@rambler.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: D:\\Plugins-Wordpress\\jet-skinner-for-buddypress\\trunk\n"
+
+#: skin_switcher.php:117
+msgid "Skins"
+msgstr "Скины"
+
+#: skin_switcher.php:140
+msgid "Skin Nice"
+msgstr "Скин"
+
+#: skinner-admin.php:125
+msgid "You do not have sufficient permissions to edit skins for this blog."
+msgstr ""
+
+#: skinner-admin.php:230
+msgid "File edited successfully."
+msgstr ""
+
+#: skinner-admin.php:236
+msgid "Select skin to edit:"
+msgstr "Выберите скин для редактирования"
+
+#: skinner-admin.php:246
+msgid "Select &raquo;"
+msgstr "Выбрать &raquo;"
+
+#: skinner-admin.php:253
+#, php-format
+msgid "Editing <code>%s</code>"
+msgstr "Редактирование <code>%s</code>"
+
+#: skinner-admin.php:255
+#, php-format
+msgid "Browsing <code>%s</code>"
+msgstr ""
+
+#: skinner-admin.php:259
+#, php-format
+msgid "<strong>'%s'</strong> skin files"
+msgstr ""
+
+#: skinner-admin.php:285
+msgid "Update File &raquo;"
+msgstr ""
+
+#: skinner-admin.php:289
+msgid "If this file were writable you could edit it."
+msgstr ""
+
+#: skinner-admin.php:295
+msgid "Oops, no such file exists! Double check the name and try again, merci."
+msgstr ""
+
+#: skinner-admin.php:300
+msgid "Oops, this theme has no skins."
+msgstr ""
+
+#: skinner-admin.php:362
+msgid "Please choose another name. An existing skin conflicts with '"
+msgstr ""
+
+#: skinner-admin.php:362
+msgid "'."
+msgstr ""
+
+#: skinner-admin.php:368
+msgid "A 'skins' directory could be created in '"
+msgstr ""
+
+#: skinner-admin.php:376
+msgid "A 'skins/"
+msgstr ""
+
+#: skinner-admin.php:398
+#: skinner-admin.php:441
+msgid "The skin '"
+msgstr ""
+
+#: skinner-admin.php:403
+msgid "Could not create 'style.css' file. Please create this file manually."
+msgstr ""
+
+#: skinner-admin.php:412
+msgid "New Skin"
+msgstr ""
+
+#: skinner-admin.php:415
+msgid "Create Skin &raquo;"
+msgstr ""
+
+#: skinner-admin.php:424
+msgid "The active skin is broken.  Reverting to the default skin."
+msgstr ""
+
+#: skinner-admin.php:427
+#, php-format
+msgid "New skin activated. <a href=\"%s\">View site &raquo;</a>"
+msgstr ""
+
+#: skinner-admin.php:433
+#, php-format
+msgid "Could not create '%s'. Please create this file manually."
+msgstr ""
+
+#: skinner-admin.php:458
+msgid "Current Skin"
+msgstr ""
+
+#: skinner-admin.php:461
+msgid "Current skin preview"
+msgstr ""
+
+#: skinner-admin.php:463
+#, php-format
+msgid "%1$s %2$s by %3$s"
+msgstr ""
+
+#: skinner-admin.php:466
+#, php-format
+msgid "The stylesheet files are located in <code>%2$s</code>.<br/><strong>%3$s</strong> uses files from <strong>%4$s</strong>.  Changes made to %4$s files will affect both skins."
+msgstr ""
+
+#: skinner-admin.php:468
+#, php-format
+msgid "All of this skin&#8217;s files are located in <code>%2$s</code>."
+msgstr ""
+
+#: skinner-admin.php:478
+msgid "Available Skins"
+msgstr ""
+
+#: skinner-admin.php:517
+msgid "Disabled Skins"
+msgstr ""
+
+#: skinner-admin.php:561
+msgid "Broken skins"
+msgstr ""
+
+#: skinner-admin.php:562
+msgid "The following skins are installed but incomplete.  skins must have a stylesheet called style.css or style.css.php."
+msgstr ""
+
+#: skinner-admin.php:566
+msgid "Name"
+msgstr ""
+
+#: skinner-admin.php:567
+msgid "Description"
+msgstr ""
+
+#: skinner-admin.php:598
+msgid "Create Your Own Skin"
+msgstr ""
+
+#: skinner-admin.php:599
+msgid "You can make your own skin for"
+msgstr ""
+
+#: skinner-admin.php:599
+msgid "Creating your own skin is easy and uses the themes default look and feel as a starting point."
+msgstr ""
+
+#: skinner-admin.php:604
+msgid "Get More Skins"
+msgstr ""
+
+#: skinner-admin.php:605
+msgid "You can find additional skins for"
+msgstr ""
+
+#: skinner-admin.php:605
+msgid "in the"
+msgstr ""
+
+#: skinner-admin.php:605
+msgid "skin directory</a>. To install a skin you generally just need to upload the skin folder into your <code>"
+msgstr ""
+
+#: skinner-admin.php:605
+msgid "/skins</code> directory. Once a skin is uploaded, you should see it on this page."
+msgstr ""
+
+#: skinner.php:98
+msgid "Visit author homepage"
+msgstr ""
+
